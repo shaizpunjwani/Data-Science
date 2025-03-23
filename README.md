@@ -1,5 +1,5 @@
 # Data-Science
-This includes all the python code files related to data science field such as: Numpy, Pandas, Matplotlib etc
+This includes all the python code files related to Data Science & Deep Learning field such as: VGG16 models, Regression, Hyperparameter tuning, machine learning algorithms and data science pipelines etc
 
 Do open these files using JUPYTER NOTEBOOK.
 
